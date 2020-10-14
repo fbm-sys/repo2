@@ -3,3 +3,4 @@
 查看版本库的版本：git --version
 使用命令创建版本库：git init
 生成秘钥：ssh-keygen -t rsa
+把本地仓库文件推送到GitHub建立连接：git push -u origin master
